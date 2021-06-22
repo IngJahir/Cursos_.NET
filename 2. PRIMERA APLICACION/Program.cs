@@ -1,4 +1,5 @@
-﻿/**
+﻿/*
+---------------------------
 VIDEO 2: PRIMERA APLICACION
 ---------------------------
 Tipos de aplicaciones en C#:
@@ -13,7 +14,7 @@ Tipos de aplicaciones en C#:
 -> Clases propias: Clases que se crean cuando creamos una aplicacion
 -> Clases predefinidas: Clases que ya vienen con el lenguaje de programacion o Bibliotecas de clases o API
 
-**/
+*/
 using System;
 
 namespace _2._SINTAXIS_BASICA
