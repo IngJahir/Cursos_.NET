@@ -1,6 +1,6 @@
 ﻿/**
-VIDEO 2: SINTAXIS BASICA
--------------------------
+VIDEO 2: PRIMERA APLICACION
+---------------------------
 Tipos de aplicaciones en C#:
 
 1. De consola : Aplicaxciones que se ejecutan en una ventana de comandos.
