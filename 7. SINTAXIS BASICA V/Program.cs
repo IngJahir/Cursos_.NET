@@ -1,6 +1,6 @@
 ﻿/*
 ----------------------------
-VIDEO 6: SINTAXIS BASICA V
+VIDEO 7: SINTAXIS BASICA V
 ----------------------------
 -> Conversion de texto a numero
 */

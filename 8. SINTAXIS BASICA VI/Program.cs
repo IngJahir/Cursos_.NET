@@ -1,6 +1,6 @@
 ﻿/*
 ---------------------------
-VIDEO 7: SINTAXIS BASICA VI
+VIDEO 8: SINTAXIS BASICA VI
 ---------------------------
 -> Variables: Espacio en la memoria donde se almacenara un valor que podria cambiar en la 
               ejecucion del programa. 
