@@ -60,6 +60,20 @@ namespace COLECCIONES_IV
 
             // Definir el diccionario
             Dictionary<string, int> edades = new Dictionary<string, int>();
+
+            // Rellenar el dicionario
+            edades.Add("Juan",28);
+            edades.Add("Diana", 35);
+
+            // Alternativa para rellenar dicccionario
+            edades["Maria"] = 25;
+            edades["Antonio"] = 29;
+
+            // Recorrer diccionario
+            foreach (KeyValuePair<string,int> persona in edades)
+            {
+                Console.WriteLine("Nombre: {0} Edad: {1}", persona.Key, persona.Value );
+            }
         }
     }
 }
